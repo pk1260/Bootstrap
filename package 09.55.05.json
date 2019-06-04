@@ -1,0 +1,27 @@
+{
+  "name": "trainingbootstrap",
+  "version": "1.0.0",
+  "description": "bootstrap training stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pk1260/Bootstrap.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "training"
+  ],
+  "author": "pascal kuiper 18251",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pk1260/Bootstrap/issues"
+  },
+  "homepage": "https://github.com/pk1260/Bootstrap#readme",
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "jquery-match-height": "^0.7.2"
+  }
+}
